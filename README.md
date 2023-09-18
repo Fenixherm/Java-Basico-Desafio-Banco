@@ -1,4 +1,10 @@
 # Java-Basico-Desafio-Banco
 Desafio Java básico Banco Santander
-[Dio]www.dio.me
-[Desafio - Sintaxe]https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe
+
+<a href="www.dio.me">
+Dio
+</a>
+</br>
+<a href="https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe">
+Desafio - Sintaxe
+</a>
